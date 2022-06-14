@@ -21,6 +21,6 @@ initialGrid = copy.deepcopy(answerGrid)  #copy to make playing grid
 
 #-------MAKING SPACES----------
 squares = subGridArea*subGridArea  #making spaces
-numSpace = 1 #number of spaces
+numSpace = 44 #number of spaces
 for p in sample(range(squares), numSpace): #randomly place spaces
     initialGrid[p // subGridArea][p % subGridArea] = 0
