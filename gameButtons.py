@@ -120,7 +120,7 @@ def ansLines(screen):  #drawing the number title
 def addAnsBut(screen):  #drawing the button on screen
     font = pygame.font.SysFont('Arial', 23)
     drawAnsBut(screen)  #draw command bar
-    writeCommand(screen, "Answers", (820, 227), font)
+    writeCommand(screen, "Answer", (820, 227), font)
     ansLines(screen)
 
     pygame.display.flip()  #update screen
