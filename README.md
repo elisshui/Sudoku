@@ -6,4 +6,4 @@ One of the earliest records of Sudoku comes from 1783 when Leonhard Euler came u
 - To dig deeper into Python's functions.<br><br>
 
 <h2>Game Features</h2>
-![](https://github.com/elisshui/Sudoku/blob/56492bbcffe5d595275f677edf898c81d20508b4/startScreen.JPG)
+(![Game Screenshot](startScreen.JPG?raw=true "Screenshot"))
