@@ -68,11 +68,13 @@ def addResetBut(screen): #drawing the button on screen
 ```
 
 <h2>Error-checking</h2>
-Error-checking functions were also implemented. When the player makes an illegal move, a message is displayed in the command bar explaining why their move was illegal. Some of these messages can be seen below.
+Error-checking functions were also implemented. When the player makes an illegal move, a message is displayed in the command bar explaining why their move was illegal. Some of these messages can be seen below.<br><br>
 
-| Number Already Exists in Column | Attempting to Change Orginal Numbers. | Number Already Exists in Row and Column. | Number Already Exists in Sub-grid. |
+| Number Already Exists in Column | Attempting to Change Orginal Numbers | Number Already Exists in Row and Column | Number Already Exists in Sub-grid |
 |---------------|-----------------|---------------------|-------------------|
 |![](https://github.com/elisshui/Sudoku/blob/main/errorCol.JPG) | ![](https://github.com/elisshui/Sudoku/blob/main/errorPreEx.JPG) | ![](https://github.com/elisshui/Sudoku/blob/main/errorRowCol.JPG) | ![](https://github.com/elisshui/Sudoku/blob/main/errorSubGrid.JPG) |
+
+
 ---
 
 Project by [Eliss Hui](https://github.com/elisshui "Eliss Hui") (June 2022)
